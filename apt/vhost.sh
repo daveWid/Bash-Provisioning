@@ -1,5 +1,5 @@
 #!/bin/bash
-SITE_PATH="/vagrant/html"
+SITE_PATH="/var/www/html"
 SITE_NAME="localhost"
 
 echo "<VirtualHost *:80>
